@@ -8,23 +8,6 @@
 
 homie 匹配系统是一个移动端网页的在线云交友平台。实现了按标签匹配、查找用户，基于 Redis GEO 实现搜索附近用户，同时个人还可以建队、组队以打造个人学习队伍。除了添加好友、搜索好友外，还基于 Websocket 实现好友间私聊，方便用户寻找志同道合的学习搭子。
 
-### 线上地址
-
-[厚米匹配系统](http://hm.hejiajun.icu/)
-
-### 前端地址
-
-[homie 匹配前端地址](https://github.com/dnwwdwd/homieMatching-fronted)
-
-### 后端地址
-
-[homie 匹配后端地址](https://github.com/dnwwdwd/homieMatching)
-
-### 项目部署教程
-
-[homie 匹配部署教程](https://blog.csdn.net/xyendjsj/article/details/135921460?spm=1001.2014.3001.5501)
-
-
 
 ## 技术选型
 
